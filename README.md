@@ -1,5 +1,5 @@
 - 👋 Hi! My name is Patrick. Welcome to my github. 
-I graduated from UofT with a Bsc in Computer Science, and here you can see some of the projects and exercises that I have completed in the past or those which I am currently working on. 
+Here you can find some of my past and current projects.
 
 
 
